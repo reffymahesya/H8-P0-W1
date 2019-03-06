@@ -1,0 +1,34 @@
+1. Newton Second Law
+Simpan "m" dengan nilai "600" kg
+Simpan "a" dengan nilai "2" m/s2
+Hitung "m" dikalikan "a"
+Isikan hasil perhitungan ke dalam "jawaban"
+Tampilkan nilai dari Jawaban!
+
+2. Tahun Kabisat
+Simpan "Tahun" dengan nilai berapapun berupa angka
+Isikan nilai "Tahun" ke dalam "area"
+Tampilkan nilai "Tahun"
+
+Jika nilai "Tahun" bisa dibagi 4, dan tidak bisa dibagi 100
+Maka Isikan kalkulasi ke dalam "Nama Tahun"
+Tampilkan kalkulasi dengan nilai "Tahun Kabisat"
+
+Jika nilai "Tahun" bisa dibagi 4, bisa dibagi 100 dan bisa dibagi 400
+Maka Isikan kalkulasi ke dalam "Nama Tahun"
+Tampilkan kalkulasi dengan nilai "Tahun Kabisat"
+
+Dan jika nilai "Tahun" tidak bisa dengan kedua cara diatas 
+Maka Isikan kalkulasi ke dalam "Nama Tahun"
+Tampilkan kalkulasi dengan nilai "Bukan Tahun Kabisat"
+
+3. Laundry Day
+Masukkan 1 baju kedalam mesin cuci
+Jika jumlah baju dalam mesin cuci belum mencapai 20, maka tambahkan 1 baju lagi kedalam mesin cuci
+Jika jumlah baju sudah 20 hentikan penambahan, dan nyalakan mesin cuci
+
+4.
+Guru memeriksa kuku secara satu persatu dimulai dari 1 - 40
+Jika ada kuku yang panjang pada pemeriksaan
+Maka lakukan hukuman
+Jika tidak lanjutkan pemeriksaan sampai berhenti di anak ke 40
