@@ -1,8 +1,9 @@
-var hari = '2 '
+var hari = '30 '
 var bulan = '10'
-var tahun = '2018'
+var tahun = '2201'
 
-switch (bulan) {
+if (hari > 0 &&  hari < 32 && bulan > 0 && bulan < 13 && tahun > 1989 && tahun < 2201){
+	switch (bulan) {
 	case '1' :
 	console.log(hari + 'Januari ' + tahun)
 	break
@@ -40,4 +41,9 @@ switch (bulan) {
 	console.log(hari + 'Desember ' + tahun)
 	break
 }
-	
+} else{
+	console.log('Tanggal tidak tersedia!')
+}
+
+/*
+	*/
