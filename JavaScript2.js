@@ -1,4 +1,4 @@
-var nama = ''
+var nama = 'Bejo'
 var peran = ''
 
   if (nama === ''){
@@ -18,5 +18,7 @@ var peran = ''
 	console.log('Selamat datang di Dunia Proxytia, Zero')
 	peran = 'Penyihir'
 	console.log('Halo Penyihir Zero, ciptakan keajaiban yang membantu kemenanganmu!')
+} else {
+	console.log('Karakter tidak tersedia dalam Dunia Proxytia!')
 }
 
