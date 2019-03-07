@@ -13,7 +13,7 @@ console.log('LOOPING KEDUA')
 var i = 20
 while (i >= 0){
 	if( i%2 == 0){
-		console.log(i + ' - I love coding')		
+		console.log(i + ' - I will become fullstack developer')		
 	}
 	i--
 }
